@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Web developer , and AWS enthusiast. Like working on projects that solves , real -life problems.  I am a fresher 2025 graduate and have built a few(6-8 ) project on  mern stack and also intrested in learning AI and integrating it with my projects<br> 
+Hi! I’m a Web Developer and AWS enthusiast who enjoys creating practical, real-world projects. I work mainly with the MERN stack and I’m now exploring AI to make my applications smarter and more impactful. I’m a 2025 graduate, always learning and experimenting with new technologies.<br> 
 
 
 ## 🌐 Socials:
