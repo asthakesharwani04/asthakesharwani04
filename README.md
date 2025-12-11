@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi! I’m a Web Developer and AWS enthusiast who enjoys creating practical, real-world projects. I work mainly with the MERN stack and I’m now exploring AI to make my applications smarter and more impactful. I’m a 2025 graduate, always learning and experimenting with new technologies.<br> 
+Hi there 👋<br>
+
+Nice to meet you, I'm Astha!<br>
+
+🌱 Growing as a developer by building and experimenting.<br>
+💬 Ask me about Web Development<br>
+📫 Reach me at: LinkedIn – @asthakesharwani<br>
+⚡ Fun fact: When I’m not coding, I’m probably vibing to music.<br> 
 
 
 ## 🌐 Socials:
